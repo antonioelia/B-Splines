@@ -1,7 +1,7 @@
 # B-Splines
 Computational Statistics exam project
-There are 3 the following 3 files in the folder:
+In the folder you will find the following files:
 
 - Documentation of the project in PDF;
-- .ipynb file of the project;
+- a notebook of the project;
 - TAC image in format .png;
